@@ -1,0 +1,6 @@
+# Ignorar node_modules y archivos temporales
+node_modules
+npm-debug.log
+dist
+build
+.env

@@ -1,0 +1,10 @@
+version: '3.8'
+services:
+  mercado-sabor:
+    build: .
+    ports:
+      - "3000:3000"
+    environment:
+      - NODE_ENV=production
+    restart: unless-stopped
+    container_name: mercado-sabor

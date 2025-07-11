@@ -1,0 +1,5 @@
+{
+  "name": "Mercado Sabor",
+  "description": "An AI-powered food marketplace MVP that suggests dishes from its inventory based on your cravings. Describe what you want to eat, and let our AI find the perfect meal for you.",
+  "requestFramePermissions": []
+}
